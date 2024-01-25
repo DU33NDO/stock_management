@@ -1,0 +1,6 @@
+stock_id,location,capacity_sq_m,owner_id
+1,"Astana",560.0,"1"
+4,"Almaty",560.0,"1"
+5,"Karaganda",560.0,"1"
+2,"Astana",560.0,"2"
+3,"Astana",560.0,"3"
